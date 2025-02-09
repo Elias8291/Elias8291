@@ -52,7 +52,7 @@
 
 
 ---
-## 📊 GitHub Stats:
+## 📊 Estadisticas GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Elias8291&show_icons=true&theme=tokyonight&locale=es)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Elias8291&theme=dark&hide_border=false&locale=es)
