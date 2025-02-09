@@ -46,7 +46,6 @@
           <img src="https://img.icons8.com/fluent/48/000000/github.png" width="55" alt="Github logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="52" alt="Apache2 logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="52" alt="MariaDB logo" />
-        
         </td>
     </tr>
 </table>
