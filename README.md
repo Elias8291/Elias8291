@@ -47,8 +47,14 @@
     </tr>
 </table>
 
-  <!-- Redes Sociales -->
-##
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Elias8291&show_icons=true&theme=tokyonight&locale=es)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Elias8291&theme=dark&hide_border=false&locale=es)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias8291&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=es)
+
 <p align="right">
   <span>
     <a target="_blank"><img src="https://komarev.com/ghpvc/?username=eliasabisai&style=for-the-badge" alt="Profile views" height="25" /></a>
@@ -57,11 +63,4 @@
     <a href="https://www.linkedin.com/in/eliasabisai"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
   </span>
 </p>
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Elias8291&show_icons=true&theme=tokyonight&locale=es)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Elias8291&theme=dark&hide_border=false&locale=es)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias8291&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=es)
 
