@@ -18,12 +18,7 @@
 ```
   <!-- Habilidades y herramientas -->
 ---
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Elias8291&show_icons=true&theme=tokyonight&locale=es)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Elias8291&theme=dark&hide_border=false&locale=es)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias8291&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=es)
 
 <table align="center">
     <tr>
@@ -54,8 +49,14 @@
     </tr>
 </table>
 
+---
+---
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Elias8291&show_icons=true&theme=tokyonight&locale=es)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Elias8291&theme=dark&hide_border=false&locale=es)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias8291&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=es)
 
 <p align="right">
   <span>
