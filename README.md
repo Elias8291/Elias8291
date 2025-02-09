@@ -1,23 +1,20 @@
-<!-- Si te gustó, considera darle una estrella al repositorio en mi perfil de GitHub. -->
-
-  <!-- Bienvenida -->
+<!-- Bienvenida -->
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-  <!-- Texto de escritura -->
+<!-- Texto de escritura -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Soy+Desarrollador+Web.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Soy+Estudiante+de+Ingeniería+en+Sistemas.;%3E+Desarrollador+Web+y+Java.;%3E+Apasionado+por+la+tecnología+y+el+código.">
 </p>
 
-  <!-- Foto de perfil -->
+<!-- Foto de perfil -->
 <img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
-  <!-- Descripción -->
+<!-- Descripción -->
 ```diff
-+  ✔️ Trabajador responsable.
-#  👨‍💻 Ingeniero en Sistemas Computacionales.
--  🚀 Optimización de páginas web.
++  ✔️ Estudiante de Ingeniería en Sistemas Computacionales.
+#  👨‍💻 Desarrollador Web y Java.
+-  🚀 Optimización y desarrollo de aplicaciones web.
 !  ✨ Si puedes imaginarlo, puedes programarlo. 
-```
 
   <!-- Habilidades y herramientas -->
 ---
