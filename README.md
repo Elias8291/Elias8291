@@ -20,56 +20,34 @@
 ---
 
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <!-- Primera tabla: Habilidades -->
-    <table>
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">
-                <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" alt="Habilidades">
-            </td>
-            <td>
-                <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5">
-                <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3">
-                <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java">
-                <img src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="72" alt="PHP">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL">
-            </td>
-        </tr>
-    </table>
-
-    <!-- Segunda tabla: Herramientas -->
-    <table>
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">
-                <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" alt="Herramientas">
-            </td>
-            <td>
-                <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" alt="VS Code">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="52" alt="IntelliJ">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git">
-                <img src="https://img.icons8.com/fluent/48/000000/github.png" width="55" alt="GitHub">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="52" alt="Apache">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="52" alt="MariaDB">
-            </td>
-        </tr>
-    </table>
-</div>
-
-<!-- Tercera tabla con salto de línea -->
-<div style="text-align: center; margin-top: 20px;">
-    <table>
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">
-                <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" alt="Otros">
-            </td>
-            <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52" alt="Docker">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="52" alt="Linux">
-            </td>
-        </tr>
-    </table>
-</div>
+<table align="center">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" alt="Habilidades gif">
+        </td>
+        <td>
+          <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
+          <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
+          <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java logo" />
+          <img src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="72" alt="PHP logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+          <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" alt="Herramientas gif">
+        </td>
+        <td>
+          <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" alt="Visual Studio logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="52" alt="IntelliJ logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git logo" />
+          <img src="https://img.icons8.com/fluent/48/000000/github.png" width="55" alt="Github logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="52" alt="Apache2 logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="52" alt="MariaDB logo" />
+        </td>
+    </tr>
+</table>
 
 
 
